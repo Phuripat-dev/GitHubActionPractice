@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "githubactionpractice-fa0de",
+    "staging": "githubactionpractice-fa0de"
+  },
+  "targets": {},
+  "etags": {}
+}
